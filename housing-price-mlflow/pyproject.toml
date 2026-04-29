@@ -1,5 +1,5 @@
 [project]
-name = "odev3"
+name = "housing-price-mlflow"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
