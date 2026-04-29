@@ -1,7 +1,7 @@
 [project]
 name = "housing-price-mlflow"
 version = "0.1.0"
-description = "Add your description here"
+description = "housing-price-mlflow"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = []
