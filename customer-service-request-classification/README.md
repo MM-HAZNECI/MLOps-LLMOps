@@ -1,4 +1,3 @@
-cat <<EOF > 
 # Customer Service Request Classification System
 
 Developed as part of the MLOps-LLMOps Bootcamp.
@@ -49,4 +48,3 @@ To view the classified results:
 \`\`\`bash
 docker exec -it odev4_postgres psql -U myuser -d customer_service -c "SELECT * FROM request_classifications;"
 \`\`\`
-EOF
