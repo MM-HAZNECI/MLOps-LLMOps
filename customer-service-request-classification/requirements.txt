@@ -1,0 +1,7 @@
+langchain
+langchain-google-genai
+sqlmodel
+psycopg2-binary
+pandas
+python-dotenv
+pydantic

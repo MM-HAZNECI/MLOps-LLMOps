@@ -1,0 +1,11 @@
+ticket_id,customer_id,channel,request_text,timestamp
+REQ001,CUST_789,email,"My internet connection has been down for 3 days. This is urgent!",2024-11-15T09:15:00
+REQ002,CUST_456,chat,"I want to upgrade my plan to include more data. What options do you have?",2024-11-15T10:30:00
+REQ003,CUST_123,phone,"Billing error on my account. I was charged twice for the same service.",2024-11-15T11:45:00
+REQ004,CUST_321,email,"Thank you for the excellent service! Just wanted to give positive feedback.",2024-11-15T13:20:00
+REQ005,CUST_654,chat,"Password reset not working. I've tried multiple times but no email received.",2024-11-15T14:50:00
+REQ006,CUST_987,phone,"System is running very slow today. Can't access my dashboard.",2024-11-15T15:30:00
+REQ007,CUST_135,email,"I received a suspicious login alert. Is my account secure?",2024-11-15T16:45:00
+REQ008,CUST_246,chat,"Can you help me find the best plan for my small business?",2024-11-15T17:20:00
+REQ009,CUST_357,phone,"Monthly subscription fee seems too high compared to competitors.",2024-11-15T18:10:00
+REQ010,CUST_468,email,"Love the new features! The mobile app update is fantastic.",2024-11-15T19:00:00
