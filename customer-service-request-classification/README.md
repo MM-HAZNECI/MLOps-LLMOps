@@ -1,4 +1,4 @@
-cat <<EOF > 
+
 # Customer Service Request Classification System
 
 Developed as part of the MLOps-LLMOps Bootcamp.
